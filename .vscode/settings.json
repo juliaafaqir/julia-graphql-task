@@ -1,0 +1,4 @@
+{
+    "appService.defaultWebAppToDeploy": "undefined/subscriptions/81872dd7-f010-417b-b042-43b48fb157c1/resourceGroups/julia-graphql-task/providers/Microsoft.Web/sites/julia-graphql-task",
+    "appService.deploySubpath": "."
+}
